@@ -1,5 +1,5 @@
 {
   "type": "esp32-fota-http",
-  "version": 1,
+  "version": 4,
   "url": "https://raw.githubusercontent.com/kiliw/firmware/main/firmware.bin"
 }
